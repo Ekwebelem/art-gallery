@@ -1,0 +1,57 @@
+body {
+  background-color: #CBEB9E;
+}
+
+#thehead {
+  text-align: center;
+  border: 10px solid blue;
+  border-radius: 10px;
+}
+
+#secondstep {
+  background-color: #FEF7B9;
+  text-align: center;
+  padding: 20px;
+
+}
+
+.imagegala {
+  width: 150px;
+  filter: grayscale(100%);
+}
+
+#thirdstep {
+  border: 3px solid orange;
+  margin-top: 30px;
+}
+img:hover {
+  filter: grayscale(0%);
+}
+
+#forthstep {
+  position: relative;
+  left: 25px;
+  height: 150px;
+  width: 150px;
+  background-color: blue;
+
+}
+#pad {
+  padding-top: 60px;
+}
+
+#fifthstep {
+  position: relative;
+  bottom: 0px;
+  background-color: yellow;
+  width: 240px;
+}
+
+#sixthstep {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  background-color: pink;
+  margin: 10px;
+
+}
